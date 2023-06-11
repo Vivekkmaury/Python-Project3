@@ -1,0 +1,18 @@
+#  Payroll Management system is the system by which an employer can manage
+     the salaries of his employees.  
+#  It makes your task easier. 
+#  It is beneficial for any kind of business enter prises.
+#  complicated  problem that are performed manually can be automated using 
+    the payroll system. 
+#  Easy to evaluate employee performance using payroll software.
+#  Acurrate information can be getting by the payroll system on real time.
+
+#  BENEFITS OF PAYROLL  SYSTEM :
+1. easy to process 
+2. performance management 
+3. best accuracy 
+ 
+#  PAYROLL  MANAGEMENT  FEATURES : 
+1. salary management 
+2. allowances management 
+3. net payable 
